@@ -1,3 +1,4 @@
+![image](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/.picture/README/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%E6%9D%90%E5%8C%96.png)
 # 苏州大学材料与化学化工学部完全指南
 
 这是一篇苏州大学材化部的本科学习指南，也是对自己大学三年学习生涯的一个纪念。
