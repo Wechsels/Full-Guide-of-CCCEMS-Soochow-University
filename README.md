@@ -37,7 +37,7 @@
 	- 现代有机合成新技术
 	- 中级无机化学
 	- 现代化学与研究方法
-	- 量子化学基础
+	- [量子化学基础](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%E5%9F%BA%E7%A1%80)
 
 - 跨专业选修课程
 
