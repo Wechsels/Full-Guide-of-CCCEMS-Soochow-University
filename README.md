@@ -163,4 +163,4 @@
 
 
 
-![image](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/.lib/Picture/README/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6.jpg)
+![image](https://n.sinaimg.cn/spider20220223/88/w1080h608/20220223/6bd5-5bde6a0b4935d763aa1bba49a8ab85f9.jpg)
