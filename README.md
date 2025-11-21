@@ -21,9 +21,9 @@
 
 - 专业必修课程
 	
-	- 高分子化学（一）（双语）
+	- [高分子化学（一）（双语）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E9%AB%98%E5%88%86%E5%AD%90%E5%8C%96%E5%AD%A6%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%88%E5%8F%8C%E8%AF%AD%EF%BC%89)
 	- [结构化学（一）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%BB%93%E6%9E%84%E5%8C%96%E5%AD%A6%EF%BC%88%E4%B8%80%EF%BC%89)
-	- 化工基础
+	- [化工基础](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%8C%96%E5%B7%A5%E5%9F%BA%E7%A1%80)
 	- 综合实验
 	- 毕业设计
 
