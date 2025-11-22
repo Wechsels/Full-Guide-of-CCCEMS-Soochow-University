@@ -55,7 +55,7 @@
 
 - 公共基础课程
 
-	- 改革开放史
+	- [改革开放史](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2)
 	- 英语高级视听
 	- 翻译与英语写作
 	- 军事技能
