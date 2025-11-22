@@ -51,7 +51,7 @@
 	- [化学物质中毒](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8%E4%B8%AD%E6%AF%92)
 	- [生物安全与人类健康](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%BA%E7%B1%BB%E5%81%A5%E5%BA%B7)
 	- [生命与死亡的隧道](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%94%9F%E5%91%BD%E4%B8%8E%E6%AD%BB%E4%BA%A1%E7%9A%84%E9%9A%A7%E9%81%93)
-	- 摄影艺术欣赏与创作
+	- [摄影艺术欣赏与创作](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%91%84%E5%BD%B1%E8%89%BA%E6%9C%AF%E6%AC%A3%E8%B5%8F%E4%B8%8E%E5%88%9B%E4%BD%9C)
 
 - 公共基础课程
 
