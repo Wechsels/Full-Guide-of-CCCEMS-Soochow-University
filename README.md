@@ -60,7 +60,7 @@
 	- [翻译与英语写作](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%BF%BB%E8%AF%91%E4%B8%8E%E8%8B%B1%E8%AF%AD%E5%86%99%E4%BD%9C)
 	- [军事技能](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%86%9B%E4%BA%8B%E6%8A%80%E8%83%BD)
 	- [中国近现代史纲要](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81)
-	- [形式与政策]()
+	- [形势与政策]()
 	- [公共体育](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%85%AC%E5%85%B1%E4%BD%93%E8%82%B2)
 	- 高等数学
 	- 计算机信息技术（计算思维）
