@@ -8,12 +8,12 @@
 
 ## 友情链接
 
-- 📖 [材化部完全指南网页版](https://wechsels.github.io/Full-Guide-of-CCCEMS-Soochow-University/) — MkDocs Material 主题渲染
+- 📖 [材化部完全指南网页版](https://wechsels.github.io/Full-Guide-of-CCCEMS-Soochow-University/) — MkDocs Material 渲染
 - 🏠 [苏州大学材料与化学化工学部官网](https://chemistry.suda.edu.cn)
 
 ## 项目结构
 
-详细导航请访问 [材化部课程](材化部课程/) · [材化部资料](材化部资料/) · [材化部书籍](材化部书籍/) · [材化部学习时光](材化部学习/)
+详细导航请访问 [材化部课程](docs/材化部课程/) · [材化部资料](docs/材化部资料/) · [材化部书籍](docs/材化部书籍/) · [材化部学习时光](docs/材化部学习/)
 
 ## 声明
 
