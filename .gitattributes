@@ -19,6 +19,9 @@
 高分子化学第5版[[:space:]]导读与题解[[:space:]]潘祖仁[[:space:]]课后习题思考题计算题答案.pdf filter=lfs diff=lfs merge=lfs -text
 高分子化学(第五版)潘祖仁版配套习题书.pdf filter=lfs diff=lfs merge=lfs -text
 Atkins_ Physical _Chemistry_11th_cn.pdf filter=lfs diff=lfs merge=lfs -text
+《化学反应工程》复习题及答案.pdf filter=lfs diff=lfs merge=lfs -text
+《化学反应工程》期末考试试题及答案.pdf filter=lfs diff=lfs merge=lfs -text
+《化学反应工程》试题及答案基础部分.pdf filter=lfs diff=lfs merge=lfs -text
 
 # ── 二进制资源，不做行尾转换 ──
 *.png  binary
