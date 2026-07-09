@@ -19,8 +19,10 @@
 
 ## 资料说明
 
-- **PPT-李新明/**：李新明老师课堂 PPT，按七个主题分章（what is green chemistry、Reactants、green catalysis、Green Solvents、greener technologies、Designing Greener Processes、Renewable Resources），含 pre-reading 阅读子目录。
-- **复习提纲/**：期末复习提纲文档，预留补充目录。
+| 文件/目录 | 用途 |
+| :--- | :--- |
+| `PPT-李新明/` | 李新明老师课堂 PPT，按七个主题分章（what is green chemistry、Reactants、green catalysis、Green Solvents、greener technologies、Designing Greener Processes、Renewable Resources），含 pre-reading 阅读子目录 |
+| `复习提纲/` | 期末复习提纲文档，预留补充目录 |
 
 ## 资料下载
 
