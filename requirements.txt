@@ -3,3 +3,5 @@ mkdocs-material==9.5.49
 mkdocs-literate-nav==0.6.1
 mkdocs-section-index==0.3.9
 mkdocs-exclude>=1.0.2
+mkdocs-document-dates==3.8.7
+mkdocs-minify-plugin==0.8.0

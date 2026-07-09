@@ -74,6 +74,25 @@ plugins:
         - "*.dotx"
         - "*.tif"
 
+  - document-dates:
+      type: date
+      position: top
+      locale: zh
+      date_format: '%Y-%m-%d'
+      show_created: true
+      show_updated: true
+      show_author: false
+      exclude:
+        - '*/index.md'
+        - 'index.md'
+      recently-updated:
+        limit: 10
+  - minify:
+      minify_html: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
+
 markdown_extensions:
   - admonition
   - attr_list
